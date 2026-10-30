@@ -1,4 +1,4 @@
-org: denilson_cuadros
+org: denilsoncuadros
 service: api-web-scraping
 
 provider:
